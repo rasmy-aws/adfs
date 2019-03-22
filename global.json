@@ -1,0 +1,6 @@
+{
+  "Parameters" : {
+    "MetadataFile": "s3://bucket/FederationMetadata.yaml",
+    "SamlProviderName": "adf-saml"
+  }
+}
